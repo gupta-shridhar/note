@@ -38,6 +38,8 @@ gem 'jbuilder', '~> 2.5'
 
 # Twitter Bootstrap for Rails 5 - 4.x Asset Pipeline
 gem 'twitter-bootstrap-rails'
+# Flexible authentication solution for Rails with Warden.
+gem 'devise'
 
 group :development, :test do
   gem 'pry-rails'
